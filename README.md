@@ -2,7 +2,7 @@
 
 **Predicting Temperature in London —  End-to-End Regression Pipeline using Scikit-Learn and MLflow Tracking**
 
-As the climate changes, predicting the weather is critical. Since the weather depends on a lot of different factors, running a lot of experiments to determine what the best approach is to predict the weather is important. In this project, I'm running experiments for different regression models predicting the mean temperature, using a combination of sklearn and MLflow.
+As the climate changes, accurate weather prediction is becoming increasingly important for sectors like energy, agriculture, and logistics. Since many interacting factors influence weather, identifying the most effective modelling approach is critical. In this project, I ran and tracked a series of machine learning experiments to predict London's daily mean temperature, analysing 15,341 daily records (1979–2021) and comparing 3 regression models to see which delivered the most reliable predictions.
 
 ## Project Brief
  
